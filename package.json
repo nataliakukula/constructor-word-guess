@@ -1,0 +1,24 @@
+{
+  "name": "constructor-word-guess",
+  "version": "1.0.0",
+  "description": "Word Guess Command-Line Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliakukula/constructor-word-guess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nataliakukula/constructor-word-guess/issues"
+  },
+  "homepage": "https://github.com/nataliakukula/constructor-word-guess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "prompt": "^1.0.0"
+  }
+}
