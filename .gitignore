@@ -1,3 +1,5 @@
 # Ignore files when pushing to github:
 node_modules
 .DS_Store
+01-WordGuess-Cli.gif
+hangman.mov
