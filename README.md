@@ -1,6 +1,6 @@
 # Word Guess Command-Line Game 
 
-**Name:** Constructor-Node-Hangmand \
+**Name:** Constructor-Node-Hangman \
 **Created for:** Northwestern Coding Bootcamp \
 **Developer:** Natalia Kukula \
 **Deployment Date:**  November 16, 2018 \
